@@ -9,6 +9,12 @@ A simple android demo that demonstrates how to implement BottomNavigationView in
 - app:itemTextColor — The color to be used for the text in the bottom navigation menu
 - app:menu — The menu resource to be used to display items in the bottom navigation menu
 
+### Demo
+
+<img src="https://user-images.githubusercontent.com/10658016/71085681-151dd180-21be-11ea-829f-50a6ad29457a.gif?raw=true" alt="Home Page" width="300"/>
+</p>
+
+
 ### Code setup
 
 ```
