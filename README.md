@@ -13,7 +13,6 @@ A simple android demo that demonstrates how to implement BottomNavigationView in
 
 ```
   implementation 'com.google.android.material:material:1.2.0-alpha02'
-
 ```
 ```
 <com.google.android.material.bottomnavigation.BottomNavigationView
